@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Meu Dicionário Java">
+    <meta name="author" content="Lucas Mateus">
+    <meta name="keywords" content="html, css, web, desenvolvimento, front-end">
+    <title>Meu Dicionário Java</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="db/db.js"></script>
+    <script src="index.js"></script>
+</head>
+
+<body>
+    <div class="container">
+        <div class="centered-container">
+            <img class="center-content" src="imagens/img/pngegg_1.png" width="250" alt="Logo do Java, escudo vermelho," title="Meu Dicionário Java">
+        </div>
+        <div>
+            <h1>Bem-vindo ao Meu Dicionário Java!</h1>
+            <p>Escolha uma opção no combo abaixo:</p>
+            <select title="Tópicos" id="slc-topicos" onchange="onSelectChange()">
+            </select>
+            <label for="description" id="lbl-txt-desc">Descrição</label>
+            <textarea id="txt-desc" name="description" title="Descrição" placeholder=""></textarea>
+        </div>
+    </div>
+</body>
+
+</html>

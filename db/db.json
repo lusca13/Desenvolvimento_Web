@@ -1,0 +1,37 @@
+[
+    {
+        "id": 0,
+        "titulo": "Selecione",
+        "descricao": "",
+        "disable": true,
+        "selected": true
+    },
+    {
+        "id": 1,
+        "titulo": "O que é Java",
+        "descricao": "Java é uma linguagem de programação de alto nível, robusta, orientada a objetos e multiplataforma. Desenvolvida pela Sun Microsystems (adquirida pela Oracle Corporation em 2010), a linguagem Java foi lançada em 1995. Desde então, tornou-se uma das linguagens mais populares e amplamente utilizadas em uma variedade de domínios, incluindo desenvolvimento de aplicativos móveis, desenvolvimento web, computação em nuvem, sistemas embarcados e muito mais.",
+        "disable": false,
+        "selected": false
+    },
+    {
+        "id": 2,
+        "titulo": "O que são tipos Primitivos em Java ",
+        "descricao": "Em Java, um tipo primitivo refere-se aos tipos de dados básicos incorporados na linguagem, que não são objetos. Esses tipos primitivos são usados para declarar variáveis simples que contêm valores diretos, em oposição aos tipos de referência, que são usados para criar objetos.",
+        "disable": false,
+        "selected": false
+    },
+    {
+        "id": 3,
+        "titulo": "O que é uma Array em Java ",
+        "descricao": "Em Java, um array é uma estrutura de dados que pode armazenar um conjunto fixo de elementos do mesmo tipo. Os elementos de um array são armazenados em posições sequenciais de memória e podem ser acessados por meio de um índice.",
+        "disable": false,
+        "selected": false
+    },
+    {
+        "id": 4,
+        "titulo": "O que são Objetos em Java ",
+        "descricao": "Em Java, objetos são instâncias de classes. Uma classe é um modelo ou uma descrição que define o comportamento e as características que os objetos de um determinado tipo terão. Os objetos são fundamentais para a programação orientada a objetos (POO) em Java",
+        "disable": false,
+        "selected": false
+    }
+]
